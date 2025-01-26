@@ -1,3 +1,5 @@
 💊 Love and Peace
 🌐Im from colombia
-🐢 Learning
+🐢 Learning HTML/CSS/JavaScript 
+
+✨Future Full-Stack Developer
